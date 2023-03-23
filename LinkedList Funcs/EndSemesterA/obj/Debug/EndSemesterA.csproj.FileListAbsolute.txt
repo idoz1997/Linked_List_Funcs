@@ -1,0 +1,7 @@
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\bin\Debug\EndSemesterA.exe.config
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\bin\Debug\EndSemesterA.exe
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\bin\Debug\EndSemesterA.pdb
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\obj\Debug\EndSemesterA.csproj.AssemblyReference.cache
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\obj\Debug\EndSemesterA.csproj.CoreCompileInputs.cache
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\obj\Debug\EndSemesterA.exe
+C:\Users\idoza\OneDrive\שולחן העבודה\מטלות הגשה במבנה נתונים\פרויקט גמר סמסטר א\EndSemesterA\EndSemesterA\obj\Debug\EndSemesterA.pdb
